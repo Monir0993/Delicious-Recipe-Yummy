@@ -12,7 +12,7 @@
 <h3>Features</h3>
 
 <ul>
-   Integrate Edamam Recipe Search API for recipes;
-   Filtering recipes with ingredients, health & diet;
-   A secure authentication system;
+  <li>Integration of Edamam Recipe Search API for recipes</li>
+  <li>Integration of Edamam Recipe Search API for recipes</li>
+  <li>A secure authentication system</li>
 </ul>
