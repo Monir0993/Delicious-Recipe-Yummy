@@ -16,3 +16,6 @@
   <li>Integration of Edamam Recipe Search API for recipes</li>
   <li>A secure authentication system</li>
 </ul>
+
+<h3>Edamam API Integraion</h3>
+<p>Sign Up to <a href="https://www.edamam.com/">Edamam</a> to get Edamam food recipe search application key and application id.</p>
