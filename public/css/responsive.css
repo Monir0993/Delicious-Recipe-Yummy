@@ -1,0 +1,48 @@
+/* defalt Layout: 1170px. */
+
+@media only screen and (min-width: 1170px) and (max-width: 1366px) {
+.column {width:1170px }
+
+.slicknav_menu {display:none}
+#menu {display:block}
+
+}
+
+/* tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.column {width:750px }
+
+.slicknav_menu {display:none}
+#menu {display:block}
+
+}
+
+
+
+
+
+/* mobile Layout: 320px. */
+@media only screen and (min-width: 240px) and (max-width: 320px) {
+.column {width:230px }
+
+.slicknav_menu {display:block}
+#menu {display:none}
+
+}
+
+
+
+
+
+/* wide mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+.column {width:450px }
+
+.slicknav_menu {display:block}
+#menu {display:none}
+
+}
+
+
+
+
