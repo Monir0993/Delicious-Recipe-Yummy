@@ -166,8 +166,8 @@
                 <div style="display: none">
                     {{ Form::open(['url' => 'details','id' => "formDetails$i"]) }}
                     {{ Form::hidden('base_url','https://api.edamam.com/search?') }}
-                    {{ Form::hidden('app_id','8f70bdc3') }}
-                    {{ Form::hidden('app_key','640a4ca144cbdf75ad7f9ef58fbb6f0a') }}
+                    {{ Form::hidden('app_id','Your-Edamam-app_id') }}
+                    {{ Form::hidden('app_key','Your-Edamam-app_key') }}
                     {{ Form::text('r',$food['recipe']['uri']) }}
                     {{ Form::close() }}
                 </div>
